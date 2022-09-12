@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Arroundd.github.io/rsschool-cv/cv
