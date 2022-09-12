@@ -25,4 +25,4 @@ _My name is Danik. I'm 19 yars old. I live in Minsk_
  <br>
  </p>
 
- <img scr=">
+ <img scr="rs.png" width="100">
