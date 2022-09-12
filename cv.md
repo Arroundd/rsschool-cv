@@ -13,3 +13,9 @@ _My name is Danik. I'm 19 yars old. I live in Minsk_
 - Adobe PhotoShop
 - Video Editing
 - MS Office
+ 
+ # Languages
+ - Polish
+ - Russian 
+ - English
+ - Belarusian
