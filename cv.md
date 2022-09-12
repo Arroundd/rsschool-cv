@@ -5,9 +5,13 @@
 # Contacts:
 ### Phone: +375296880506
 ### E-mail: dsavin2003@mail.ru
-[my vk] (https://vk.com/arrounddd)
+### https://vk.com/arrounddd
 # About Myself:
 _My name is Danik. I'm 19 yars old. I live in Minsk_
+
+### Education 
+- completed eleven classes in 2021
+- I study at the Belarusian State Economic University 
 
 # Skills: 
 - Adobe PhotoShop
