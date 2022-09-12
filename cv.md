@@ -8,3 +8,8 @@
 [vk] (https://vk.com/arrounddd)
 # About Myself:
 _My name is Danik. I'm 19 yars old. I live in Minsk_
+
+# Skills: 
+- Adobe PhotoShop
+- Video Editing
+- MS Office
