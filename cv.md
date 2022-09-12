@@ -20,9 +20,4 @@ _My name is Danik. I'm 19 yars old. I live in Minsk_
  - English
  - Belarusian
 
- <p>
- <br>
- <br>
- </p>
-
- <img scr="rs_school_img" width="100"/>
+ 
